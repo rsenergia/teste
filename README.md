@@ -1,2 +1,0 @@
-# loja2
-varejo
